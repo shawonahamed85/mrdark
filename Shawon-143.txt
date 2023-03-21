@@ -10,7 +10,7 @@ Actions
 Projects
 Security
 Insights
-OPEN-SOURCE/OPEN-SOURCE-SNIGDHO-RANDOM-2.py.py
+OPEN-SOURCE/OPEN-SOURCE-SNIGDHO-RANDOM-2.py
 @SAMIR-CYBER-143
 SAMIR-CYBER-143 Add files via upload
  1 contributor
